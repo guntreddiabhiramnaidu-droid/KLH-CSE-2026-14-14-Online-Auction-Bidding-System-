@@ -33,6 +33,13 @@ and an administrator. Further features such as bid validation, auction closing,
 winner selection, and notifications may be implemented as the project progresses.
 
 ---
+## Problem Statement
+
+Traditional auction processes can be time-consuming and difficult to manage when multiple bidders are involved. Tracking bidders, auction items, bid amounts, and the highest bid manually can lead to confusion and errors.
+
+The **Online Auction and Bidding System** aims to provide a simple digital platform where sellers can list items for auction and bidders can compete by placing bids. The system keeps track of the current highest bid, validates new bids, manages the auction lifecycle, and identifies the winning bidder when the auction ends.
+
+The project will be developed using **Java**, with an object-oriented approach to represent important entities such as users, items, auctions, and bids. The system will initially focus on the core auction and bidding workflow and can later be extended with features such as database storage, authentication, notifications, and payment processing.
 
 ## Objectives
 
